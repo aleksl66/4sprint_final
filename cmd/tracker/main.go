@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/aleksl66/4sprint_final/blob/first-iteration/internal/daysteps"
+	"github.com/aleksl66/4sprint_final/first-iteration/internal/daysteps"
 	"log"
 )
 

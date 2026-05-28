@@ -2,7 +2,7 @@ package daysteps
 
 import (
 	"fmt"
-	"github.com/aleksl66/4sprint_final/blob/first-iteration/internal/spentcalories"
+	"github.com/aleksl66/4sprint_final/first-iteration/internal/spentcalories"
 	"strconv"
 	"strings"
 	"time"
