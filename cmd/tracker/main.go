@@ -1,11 +1,10 @@
 package main
 
 import (
+	"4sprint_final/internal/daysteps"
+	"4sprint_final/internal/spentcalories"
 	"fmt"
 	"log"
-
-	"github.com/Yandex-Practicum/tracker/internal/daysteps"
-	"github.com/Yandex-Practicum/tracker/internal/spentcalories"
 )
 
 func main() {
