@@ -1,10 +1,9 @@
 package main
 
 import (
+	"/internal/daysteps"
 	"fmt"
 	"log"
-
-	"internal/daysteps"
 )
 
 func main() {

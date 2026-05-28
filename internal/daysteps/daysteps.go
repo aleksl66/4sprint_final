@@ -1,8 +1,8 @@
 package daysteps
 
 import (
+	"/internal/spentcalories"
 	"fmt"
-	"internal/spentcalories"
 	"strconv"
 	"strings"
 	"time"
