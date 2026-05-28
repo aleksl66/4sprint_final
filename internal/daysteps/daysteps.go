@@ -2,7 +2,6 @@ package daysteps
 
 import (
 	"fmt"
-	"internal/spentcalories/spentcalories.go"
 	"strconv"
 	"strings"
 	"time"
