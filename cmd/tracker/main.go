@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"/internal/daysteps"
-	"/internal/spentcalories"
+	"internal/daysteps"
 )
 
 func main() {
