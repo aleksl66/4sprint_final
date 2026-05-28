@@ -1,8 +1,9 @@
 package main
 
 import (
+	"4sprint_final/internal/daysteps"
+	"4sprint_final/internal/spentcalories"
 	"fmt"
-	"github.com/aleksl66/4sprint_final/first-iteration/internal/daysteps"
 	"log"
 )
 

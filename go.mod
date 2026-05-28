@@ -1,4 +1,4 @@
-module github.com/aleksl66/first-iteration
+module 4sprint_final
 
 go 1.26.1
 
