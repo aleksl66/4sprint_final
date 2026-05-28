@@ -1,8 +1,8 @@
 package main
 
 import (
-	"/internal/daysteps"
 	"fmt"
+	"github.com/aleksl66/4sprint_final/blob/first-iteration/internal/daysteps"
 	"log"
 )
 
